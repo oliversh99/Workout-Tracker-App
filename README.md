@@ -23,7 +23,7 @@ The user should be able to:
 
   # links
 this the linke to app to follow 
-- Deployed URL:
+- Deployed To Heroku URL:https://secret-shelf-08382.herokuapp.com/
 - Github URL:https://github.com/oliversh99/Workout-Tracker-App
 
  ## Table Of Contents
